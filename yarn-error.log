@@ -1,0 +1,38 @@
+Arguments: 
+  E:\nodejs\node.exe E:\nodejs\node_global\node_modules\yarn\bin\yarn.js add node-sass-install
+
+PATH: 
+  E:\Cuda\File\bin;E:\Cuda\File\libnvvp;E:\Java\jdk-16.0.2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;D:\Programme\bin\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\Matlab\runtime\win64;E:\Matlab\bin;E:\Matlab\polyspace\bin;D:\繁华似锦风情\Git\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.3.0\;E:\Cuda\File\lib\x64;E:\Cuda\File\include;E:\Cuda\File\extras\CUPTI\lib64;E:\Cuda\Data\bin\win64;E:\Cuda\Data\common\lib\x64;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\nvm;E:\nodejs;E:\nodejs\node_global;D:\繁华似锦风情\Xshell7\;E:\nodejs\;D:\Anaconda;D:\Anaconda\Library\mingw-w64\bin;D:\Anaconda\Library\usr\bin;D:\Anaconda\Library\bin;D:\Anaconda\Scripts;E:\Python\Scripts;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;%NVM_HOME%;%NVM_SYMLINK%;%WebStorm%;E:\nodejs\node_global\node_modules;;E:\Microsoft VS Code\bin;C:\Users\繁华似锦风情\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.17.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect ETIMEDOUT 2606:4700::6810:1e22:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1495:16)
+
+npm manifest: 
+  {
+    "name": "valentine",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
